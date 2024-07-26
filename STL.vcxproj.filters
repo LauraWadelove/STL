@@ -18,5 +18,8 @@
     <ClCompile Include="tst.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2迭代器使用示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
