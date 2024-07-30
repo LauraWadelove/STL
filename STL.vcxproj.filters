@@ -21,5 +21,14 @@
     <ClCompile Include="2迭代器使用示例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2array容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2array容器2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2array获取元素的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
