@@ -30,5 +30,17 @@
     <ClCompile Include="2array获取元素的值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2vector的基本操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2vector迭代器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2vector之reverse改变容量大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2vector基于范围的循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
